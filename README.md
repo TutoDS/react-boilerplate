@@ -1,15 +1,13 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-icons-font@v5/font/simple-icons.min.css" type="text/css">
-
 <h1 align="center">React Boilerplate</h1>
 <p align="center">This repository contain the basics to start a new project using:</p>
 
 <div align="center">
-<i class="si si-react si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
-<i class="si si-webpack si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
-<i class="si si-babel si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
-<i class="si si-typescript si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
-<i class="si si-eslint si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
-<i class="si si-prettier si--color" style="font-size: 40px"></i>
+<img alt="React" src="https://img.shields.io/badge/react-1E4174?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/webpack-1E4174?style=for-the-badge&logo=webpack&logoColor=white" />
+<img alt="babel" src="https://img.shields.io/badge/babel-1E4174?style=for-the-badge&logo=babel&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E4174?style=for-the-badge&logo=TypeScript&logoColor=white" />
+<img alt="eslint" src="https://img.shields.io/badge/eslint-1E4174?style=for-the-badge&logo=eslint&logoColor=white" />
+<img alt="prettier" src="https://img.shields.io/badge/prettier-1E4174?style=for-the-badge&logo=prettier&logoColor=white" />
 </div>
 
 <br /><br />
