@@ -1,16 +1,19 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-icons-font@v5/font/simple-icons.min.css" type="text/css">
+
 <h1 align="center">React Boilerplate</h1>
 <p align="center">This repository contain the basics to start a new project using:</p>
 
 <div align="center">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" /><span style="margin-right: 20px"></span>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/webpack.svg" /><span style="margin-right: 20px"></span>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/babel.svg" /><span style="margin-right: 20px"></span>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" /><span style="margin-right: 20px"></span>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/eslint.svg" /><span style="margin-right: 20px"></span>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/prettier.svg" />
+<i class="si si-react si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
+<i class="si si-webpack si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
+<i class="si si-babel si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
+<i class="si si-typescript si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
+<i class="si si-eslint si--color" style="font-size: 40px"></i><span style="margin-right: 20px"></span>
+<i class="si si-prettier si--color" style="font-size: 40px"></i>
 </div>
 
 <br /><br />
+
 
 <h2>💡 What you will found?</h2>
 
