@@ -7,12 +7,7 @@
 	"trailingComma": "none",
 	"overrides": [
 		{
-			"files": [
-				"*.yml",
-				"*.yaml",
-				"**/*.yml",
-				"**/*.yaml"
-			],
+			"files": ["*.yml", "*.yaml", "**/*.yml", "**/*.yaml"],
 			"options": {
 				"tabWidth": 2,
 				"useTabs": false
