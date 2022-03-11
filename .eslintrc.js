@@ -26,7 +26,7 @@ module.exports = {
 			version: 'detect'
 		}
 	},
-	plugins: ['import'],
+	plugins: ['etc', 'import'],
 	extends: [
 		'plugin:import/errors',
 		'plugin:import/warnings',
@@ -41,6 +41,7 @@ module.exports = {
 		'plugin:prettier/recommended' //should be at the last
 	],
 	rules: {
+		'etc/no-implicit-any-catch': ['error', { allowExplicitAny: true }],
 		'no-unused-vars': 'off',
 		'@typescript-eslint/no-unused-vars': ['error'],
 		'@typescript-eslint/no-var-requires': 'off',
